@@ -19,7 +19,7 @@ If you don’t have Poetry installed, install it using:
 pip install poetry
 2️⃣ Clone the Repository
 
-git clone https://github.com/your-username/pubmed-fetcher.git
+git clone https://github.com/HimaniKM/pubmed-fetcher.git
 cd pubmed-fetcher
 3️⃣ Install Dependencies
 
@@ -84,4 +84,4 @@ Push to GitHub and create a PR
 🔹 Contact
 💡 For questions or issues, open an issue or reach out to:
 ✉️ Email: himanikothakotamaana@gmail.com
-🌍 GitHub: HimaniKM
+🌍 GitHub: https://github.com/HimaniKM
